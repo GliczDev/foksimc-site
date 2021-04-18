@@ -13,6 +13,7 @@ code {
     padding: 5px;
     border-radius: 3px;
     border: none;
+    user-select: text;
 }
 
 .footer {

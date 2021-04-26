@@ -115,7 +115,6 @@ hr {
 }
 
 .logo {
-    display: inline-block;
     cursor: pointer;
     user-select: none;
     border-radius: 12px;

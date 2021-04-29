@@ -1,6 +1,6 @@
 body {
     background-color: #fff;
-    font-family: 'Arial';
+    font-family: 'Open Sans', sans-serif;
     user-select: none;
     color: black;
     margin: 0;
@@ -124,7 +124,6 @@ hr {
 }
 
 .glow-on-hover {
-    font-family: 'Arial';
     user-select: none;
     color: #fff;
     font-size: 14px;
